@@ -15,7 +15,11 @@ int main()
 	//detect_circle();
 	//find_contour();
 	//find_particle();
-	blur_detect();
+	//blur_detect();
+//	canny_edge_detector();
+	//detect_blob();
+	edge();
+
 	return 0;
 }
 
