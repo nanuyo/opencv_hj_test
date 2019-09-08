@@ -9,3 +9,5 @@ int blur_detect();
 int canny_edge_detector();
 int detect_blob();
 int edge();
+int autofocus();
+int draw_rgb();

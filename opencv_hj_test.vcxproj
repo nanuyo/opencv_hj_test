@@ -165,11 +165,13 @@
   <ItemGroup>
     <ClCompile Include="..\opencv\samples\cpp\detect_blob.cpp" />
     <ClCompile Include="..\opencv\samples\cpp\edge.cpp" />
+    <ClCompile Include="autofocus.cpp" />
     <ClCompile Include="blur_detect.cpp" />
     <ClCompile Include="canny_edge_detector.cpp" />
     <ClCompile Include="change_color.cpp" />
     <ClCompile Include="detect_circle.cpp" />
     <ClCompile Include="detect_color.cpp" />
+    <ClCompile Include="draw_rgb.cpp" />
     <ClCompile Include="find_contour.cpp" />
     <ClCompile Include="find_particle.cpp" />
     <ClCompile Include="main.cpp" />
