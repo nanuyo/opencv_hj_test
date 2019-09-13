@@ -18,9 +18,9 @@ int main()
 	//blur_detect();
 //	canny_edge_detector();
 	//detect_blob();
-	//edge();
+	edge();
 	//autofocus();
-	draw_rgb();
+	//draw_rgb();
 
 	return 0;
 }
